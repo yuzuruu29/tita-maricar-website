@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Secrets (defensive — no env files belong in this static site)
+.env
+.env.*
+
+# Vercel project link / build output
+.vercel
+
+# Dependencies (none today, but defensive)
+node_modules/

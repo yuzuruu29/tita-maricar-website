@@ -1,0 +1,15 @@
+{
+  "name": "Tita Maricar's Carinderia",
+  "short_name": "Tita Maricar's",
+  "description": "Fresh daily ulam and made-to-order trays in Calo, Bay, Laguna.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF4E9",
+  "theme_color": "#B5451B",
+  "icons": [
+    { "src": "img/logo/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/logo/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/logo/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
